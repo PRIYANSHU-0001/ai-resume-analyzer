@@ -1,0 +1,4 @@
+Paste your GitHub repository link here before submitting your coursework.
+
+Example:
+https://github.com/username/ai-resume-analyzer
